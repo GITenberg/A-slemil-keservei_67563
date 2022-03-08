@@ -1,0 +1,25 @@
+_repo: A-slemil-keservei_67563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ignotus
+    gutenberg_agent_id: '33477'
+    url: http://www.gutenberg.org/2009/agents/33477
+description: ''
+gutenberg_issued: '2022-03-05'
+identifiers:
+  gutenberg: '67563'
+language: hu
+pgterms:marc905: 20220228041833ignotus
+pgterms:marc906: '1891'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: Hungary :Grill Károly,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A slemíl keservei
+url: http://www.gutenberg.org/ebooks/67563
