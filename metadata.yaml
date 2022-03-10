@@ -1,11 +1,16 @@
 _repo: A-slemil-keservei_67563
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
     gutenberg_agent_id: '33477'
     url: http://www.gutenberg.org/2009/agents/33477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67563#A-slemil-keservei
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67563'
